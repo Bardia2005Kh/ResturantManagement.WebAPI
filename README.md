@@ -15,6 +15,13 @@ This project provides a robust backend system for managing restaurants, tables, 
 
 ---
 
+## 📷 ScreenShots
+<img width="1919" height="1034" alt="Screenshot 2025-08-28 212802" src="https://github.com/user-attachments/assets/edfd2743-5828-470d-a4ed-c64420a5a29d" />
+<img width="1920" height="3802" alt="screencapture-localhost-7249-swagger-index-html-2025-08-28-21_28_14" src="https://github.com/user-attachments/assets/3d3f0097-b9b1-4497-bae5-c9b54be7a3c0" />
+
+
+---
+
 ## 🛠️ Technologies Used
 - **ASP.NET Core 8 (Web API)**  
 - **Entity Framework Core (Code First)**  
